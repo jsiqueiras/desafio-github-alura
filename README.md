@@ -1,8 +1,8 @@
 # Desafio Github Alura
 
-#### Durante os 7 Days de GitHub, vou praticar de algo que além de importantíssimo, será muito divertido. 
-- Vou criar, do zero, um repositório no GitHub usando um template. 
-- Posteriormente, vou começar a fazer requisições para este repositório, tanto manualmente quanto através da IDE do Visual Studio Code. 
+#### Durante os 7 Days de GitHub, vou praticar de algo que além de importantíssimo, será muito divertido: 
+- Vou criar, do zero, um repositório no GitHub usando um template; 
+- Posteriormente, vou começar a fazer requisições para este repositório, tanto manualmente quanto através da IDE do Visual Studio Code; 
 - Vou trabalhar com muitos conceitos que colocarão à prova os meus conhecimentos de GitHub. #Boralá?
 
 |  DIA   |                               ATIVIDADE              |STATUS            |
