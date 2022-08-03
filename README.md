@@ -8,7 +8,7 @@
 |  DIA   |                               ATIVIDADE              |STATUS            |
 |--------|------------------------------------------------------|------------------|
 |DIA 1   |`Criar repositório`                                   |:white_check_mark:|
-|DIA 2   |`Subir arquivos manualmente`                          | :clock1:         |
+|DIA 2   |`Subir arquivos manualmente`                          |:white_check_mark:|
 |DIA 3   |`Clonar o repositório e editar localmente`            | :clock1:         |
 |DIA 4   |`Alterar o código e fazer commit usando IDE`          | :clock1:         |
 |DIA 5   |`Criar e publicar um commit errado, depois reverter`  | :clock1:         |
