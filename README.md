@@ -12,5 +12,5 @@
 |DIA 3   |`Clonar o repositório e editar localmente`            |:white_check_mark:|
 |DIA 4   |`Alterar o código e fazer commit usando IDE`          |:white_check_mark:|
 |DIA 5   |`Criar e publicar um commit errado, depois reverter`  |:white_check_mark:|
-|DIA 6   |`Forçar commits de fontes diferentes. Fazer um merge` | :clock1:         |
-|DIA 7   |`Colocar projeto em produção usando o GitHub Pages`   | :clock1:         |
+|DIA 6   |`Forçar commits de fontes diferentes. Fazer um merge` |:white_check_mark:|
+|DIA 7   |`Colocar projeto em produção usando o GitHub Pages`   |:white_check_mark:|
